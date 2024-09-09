@@ -1,0 +1,1 @@
+Las template strings permiten interpolar variables como esta: `Hola ${nombre}`. Esto es diferente a usar comillas simples o dobles, donde deberíamos concatenar las variables usando el operador +.
